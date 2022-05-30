@@ -1,5 +1,1 @@
-The SUDMEX_CONN dataset is the result of a case-control study of cocaine use disorder patients. The study was done at the National Institute of Psychiatry in Mexico City by PIs Dr. Eduardo A. Garza-Villarreal and Jorge J. Gonzalez Olvera.
-
-The MRI sequences were: 1) T1-weighted, 2) rsfMRI 10 min, 3) HARDI-DWI multishell.
-
-Full clinical data will be uploaded to Zenodo soon. This is the first official release.
+Here we present an open dataset of 33 fibromyalgia female patients and 33 paired healthy controls recruited from a Mexican population. Dataset includes demographic, clinical, behavioral and MRI data. The MRI consists of: T1w, T2w, resting state fMRI and task-fMRI sequences. The task was an emotion processing and regulation task based on visual stimuli (pictures). The MRI data consists of raw data in BIDS format.
